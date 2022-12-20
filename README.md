@@ -1,4 +1,4 @@
-# CMSE202-Honor-option
+# CMSE202-NBA-Player-Factor-Analysis
 
 **Sports / Games 2: Sports related: try to analyze the value of players. Determine how to measure individual value, create a model, test on observations.**
 
